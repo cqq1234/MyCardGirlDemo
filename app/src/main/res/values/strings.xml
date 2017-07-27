@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GirlCard</string>
+    <string name="first_toolbar_title">仿探探滑动卡片</string>
+    <string name="girl_detail">美女详情</string>
+</resources>
